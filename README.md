@@ -8,7 +8,7 @@ See [`src/who-are-you.coffee`](src/who-are-you.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-who-are-you --save`
+`npm install https://github.com/WALL-E/hubot-who-are-you --save`
 
 Then add **hubot-who-are-you** to your `external-scripts.json`:
 
