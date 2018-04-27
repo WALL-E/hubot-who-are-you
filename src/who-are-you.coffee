@@ -24,7 +24,7 @@ response = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /who are you/i, (msg) ->
+  robot.respond /who( are you)?/i, (msg) ->
     msg.send msg.random response
   answers = new RegExp "who are you #{robot.name}", "i"
   robot.hear answers, (msg) ->
