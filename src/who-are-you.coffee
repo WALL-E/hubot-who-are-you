@@ -19,7 +19,7 @@ response = [
   "truly I am your servant",
   "I'm just a robot",
   "I don't know either",
-  "t's too difficult for me"
+  "It's too difficult for me"
 ]
 
 module.exports = (robot) ->
