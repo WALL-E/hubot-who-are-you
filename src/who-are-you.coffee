@@ -19,6 +19,7 @@ response = [
   "truly I am your servant",
   "I'm just a robot",
   "I don't know either",
+  "I'm not zz",
   "It's too difficult for me"
 ]
 
