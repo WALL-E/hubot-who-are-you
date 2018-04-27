@@ -1,4 +1,4 @@
-# hubot-thank-you
+# hubot-who-are-you
 
 A hubot script that tell you who I am
 
